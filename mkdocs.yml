@@ -1,0 +1,5 @@
+site_name: Genomics Research for Health Equity - Lab Resource
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
